@@ -6,4 +6,7 @@ public void Test{
 		String s = "12345";
 		System.out.println("s.substring(0,1)");
 	}
+	public class getMethod(){
+	System.out.println("ÄãºÃ");	
+}
 }
