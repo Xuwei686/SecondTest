@@ -3,7 +3,7 @@ public void Test{
 		Date d = new Date();
 		SimpleDateFormat sd = new SimpleDateFormat();
 		System.out.println("sd.format(d)");
-		String s = "12345";
-		System.out.println("s.substring(0,1)");
+		System.out.println("123456");
+		System.out.println("abcefg");
 	}
 }
