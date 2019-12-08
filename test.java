@@ -9,4 +9,5 @@ public void Test{
 	public class getMethod(){
 	System.out.println("你好");	
 }
+System.err.println("啥也不是，散会");
 }
