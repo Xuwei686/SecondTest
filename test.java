@@ -12,8 +12,19 @@ public void Test{
 	}
 
 	public class getMethod(){
-	System.out.println("你好");	
+	log.info("hello" + list);	
 }
 System.err.println("啥也不是，散会");
-System.err.println("赠送");
+return null;
+return null;
+return null;
+return null;
+return null;
+return null;
+return null;
+return null;
+return null;
+return null;
+return null;
+
 }
