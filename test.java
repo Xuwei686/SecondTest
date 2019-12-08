@@ -1,11 +1,13 @@
 public void Test{
-<<<<<<< HEAD
 	@Test
 	public String  getAll(){
-		return string;
+		return null;
 	}
-	@Test
-	public String getList(){
-		return s;
+	public static void main(String [] args){
+		List<String > list = new ArrayList<String>();
+		Array[] arr = new Array[](4);
+	}
+	public void test(){
+		Map<String,string> map = new HashMap<String,String>();
 	}
 }
