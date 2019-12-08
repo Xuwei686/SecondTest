@@ -1,4 +1,5 @@
 public void Test{
+<<<<<<< HEAD
 	@Test
 	public String  getAll(){
 		return string;
