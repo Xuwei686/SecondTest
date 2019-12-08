@@ -6,4 +6,7 @@ public void Test{
 		System.out.println("123456");
 		System.out.println("abcefg");
 	}
+	public class getMethod(){
+	System.out.println("ÄãºÃ");	
+}
 }
